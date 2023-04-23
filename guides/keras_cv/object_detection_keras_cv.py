@@ -1,5 +1,5 @@
 """
-Title: Object Detection with KerasCV
+Title: Object Detection with KerasCV Keith is awesome
 Author: [lukewood](https://twitter.com/luke_wood_ml)
 Date created: 2023/04/08
 Last modified: 2023/04/08
